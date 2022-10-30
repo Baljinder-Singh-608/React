@@ -1,0 +1,78 @@
+[
+    {
+        "id":1,
+        "username": "Michael Lawson",
+        "pass": "michael@123",
+        "email": "michael.lawson@reqres.in",
+        "phone": "1234567890",
+        "country": "USA",
+        "street": "Jeremy Estates, 39212 O'Reilly Extensions",
+        "city": "North Rodger",
+        "state": "New York",
+        "zip": "51926-3639",
+        "avatar": "https://reqres.in/img/faces/7-image.jpg"
+    },
+    {
+        "id":2,
+        "username": "Lindsay Ferguson",
+        "pass": "lindsay@123",
+        "email": "lindsay.ferguson@reqres.in",
+        "phone": "9012345678",
+        "country": "USA",
+        "street": "Gleichner Curve 6382 Guadalupe Groves",
+        "city": "Dachside",
+        "state": "Washington",
+        "zip": "70906",
+        "avatar": "https://reqres.in/img/faces/8-image.jpg"
+    },{
+        "id":3,
+        "username": "Tobias Funke",
+        "pass": "tobias@123",
+        "email": "tobias.funke@reqres.in",
+        "phone": "7890123456",
+        "country": "USA",
+        "street": "Jeremy Estates, 39212 O'Reilly Extensions",
+        "city": "North Rodger",
+        "state": "New York",
+        "zip": "51926-3639",
+        "avatar": "https://reqres.in/img/faces/9-image.jpg"
+    },
+    {
+        "id":4,
+        "username": "Byron Fields",
+        "pass": "byron@123",
+        "email": "byron.fields@reqres.in",
+        "phone": "9012345678",
+        "country": "USA",
+        "street": "Gleichner Curve 6382 Guadalupe Groves",
+        "city": "Dachside",
+        "state": "Washington",
+        "zip": "70906",
+        "avatar": "https://reqres.in/img/faces/10-image.jpg"
+    },{
+        "id":5,
+        "username": "George Edwards",
+        "pass": "george@123",
+        "email": "george.edwards@reqres.in",
+        "phone": "7890123456",
+        "country": "USA",
+        "street": "Jeremy Estates, 39212 O'Reilly Extensions",
+        "city": "North Rodger",
+        "state": "New York",
+        "zip": "51926-3639",
+        "avatar": "https://reqres.in/img/faces/11-image.jpg"
+    },
+    {
+        "id":4,
+        "username": "Rachel Howell",
+        "pass": "rachel@123",
+        "email": "rachel.howell@reqres.in",
+        "phone": "9012345678",
+        "country": "USA",
+        "street": "Gleichner Curve 6382 Guadalupe Groves",
+        "city": "Dachside",
+        "state": "Washington",
+        "zip": "70906",
+        "avatar": "https://reqres.in/img/faces/12-image.jpg"
+    }    
+]

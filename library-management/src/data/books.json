@@ -1,0 +1,98 @@
+[
+    {
+        "book": "The India Story",
+        "author": "Bimal Jalal",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "Listen to Your Heart: The London Adventure",
+        "author": "Ruskin Bond",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "Business of Sports: The Winning Formula for Success",
+        "author": "Vinit Karnik",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "A Place Called Home",
+        "author": "Preeti Shenoy",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "The Struggle for Police Reforms in India",
+        "author": "Ex-IPS Prakash Singh",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "Modi @20: Dreams Meeting Delivery",
+        "author": "VP Venkaiah Naidu",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "INDO-PAK WAR 1971- Reminiscences of Air Warriors",
+        "author": "Rajnath Singh",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "Leaders, Politicians, Citizens",
+        "author": "Rasheed Kidwai ",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "Birsa Munda – Janjatiya Nayak",
+        "author": "Prof. Alok Chakrawal",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "Lal Salam",
+        "author": "Smriti Irani",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "Pride, Prejudice and Punditry",
+        "author": "Shashi Tharoor",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    },
+    {
+        "book": "Queen of Fire",
+        "author": "Devika Rangachari",
+        "totalBook": 5,
+        "availbaleBook": 3,
+        "rentedBook": 2,
+        "editable": false
+    }
+]

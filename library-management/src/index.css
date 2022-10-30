@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.book-info{position: relative;}
+/* Edit Book Name and Author */
+.editableCon label{display: none;}
+.editableCon input, .editableCon input:focus, .editableCon input:focus-visible{margin: 0; border: 0; background: transparent; box-shadow: none; outline: none; padding: 0;}
+input#editBook{font-weight: bold; font-size: 1rem;}
+input#editAuthor{color: rgb(107 114 128); font-size: 0.875rem;}
+
+/* Book issue and return Button */
+.bookAction{position: absolute; left: 0; bottom: -100%;}
+.book-info ul:hover + .bookAction, .bookAction:hover{bottom: 0;}
